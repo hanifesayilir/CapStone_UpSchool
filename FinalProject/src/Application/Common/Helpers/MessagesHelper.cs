@@ -33,8 +33,8 @@
 
              public static class Confirmation
         {
-            public static string Subject => "Thank you for signing up to F!";
-            public static string ActivationMessage => "Thank you for signing up to UpStorage! In order to activate your account please click the activation button given below.";
+            public static string Subject => "Thank you for signing up to Final Crawler Project!";
+            public static string ActivationMessage => "Thank you for signing up to Final Crawler Project! In order to activate your account please click the activation button given below.";
             
             public static string Name(string firstName) =>
                 $"Hi {firstName}";

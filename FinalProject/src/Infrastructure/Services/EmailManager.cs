@@ -81,7 +81,7 @@ namespace Infrastructure.Services
 
             client.UseDefaultCredentials = false;
 
-            client.Credentials = new NetworkCredential("finalcrawlmaster@outlook.com", "xxxxxxxx!");
+            client.Credentials = new NetworkCredential("finalcrawlmaster@outlook.com", "");
 
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
 
