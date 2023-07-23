@@ -67,7 +67,7 @@ Entity Framework (EF) with .NET EntityFramework Core 7 is the chosen ORM (Object
 The backend utilizes the MySQL MariaDB database management system. MariaDB is chosen for its performance, reliability, and open-source nature, making it an excellent fit for this project's requirements.
 
 ---
-[![You can watch this video for details](https://youtu.be/JYsPxkG9iA0)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/JYsPxkG9iA0))
+[![You can watch this video for details](https://i9.ytimg.com/vi/JYsPxkG9iA0/mqdefault.jpg?sqp=CNSa9aUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgSyh_MA8=&rs=AOn4CLD72fPZWUmv-7FXhQ5UKFPH2q6HVQ)]( https://youtu.be/JYsPxkG9iA0)
 
 
 Please note that the above description is an outline of the frontend and backend technologies for the 2023 Capstone Project. You can further elaborate on each section with implementation details, code examples, and any other relevant information in your actual README.md file.
