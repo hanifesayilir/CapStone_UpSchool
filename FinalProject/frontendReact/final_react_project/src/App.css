@@ -1,0 +1,92 @@
+/*.App {
+    padding-top: 75px;
+    padding-bottom: 50px;
+    min-height: 100vh;
+}*/
+
+/*.navbar {
+    position: fixed;
+    top: 10;
+    left: 0;
+    right: 0;
+    z-index: 1000; !* Adjust the z-index as needed to ensure the navbar appears on top *!
+}*/
+
+
+
+
+custom-dimmer {
+    background-color: red;
+    opacity: 0.7;
+}
+
+
+ .ui.table thead th {
+     background-color: #1976d2 !important;
+     color: white;
+   /* justify-content: center  !important;
+    text-align-all: center  !important;
+     vertical-align: center;*/
+ }
+
+ .ui.table {
+     border-color: #1976d2;
+     border-width: 2;
+     font-size: 1em;
+     font-weight: bold;
+     color:#9c27b0 ;
+ }
+
+.ui.table tfoot th {
+    border-color: #1976d2;
+}
+
+h1 {
+text-align: center;
+    color:   #1976d2;
+    text-decoration-width: 2em;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+
+
+ .ui.form .field>label {
+     color: #9c27b0;
+     font-size: medium ;
+ }
+
+.ui.button {
+    color: white;
+    background-color: #9c27b0;
+    font-size: 13px !important ;
+
+}
+
+/*add-orders step*/
+.ui.steps.step.title {
+    text-size: large
+
+
+
+}
+
+
+
+
+.ui.stacked.segment {
+    background-color: lavender;
+}
+
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    background-color: #9c27b0 !important;
+}
+
+ /*.ui.table.tr {
+     vertical-align: center  !important;
+     text-align-all: center;
+     justify-content: flex-end;
+
+ }*/

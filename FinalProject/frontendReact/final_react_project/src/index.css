@@ -1,0 +1,13 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 50px;
+
+  min-width: 600px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
